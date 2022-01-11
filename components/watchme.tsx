@@ -2,7 +2,7 @@ import { Dialog, Transition } from '@headlessui/react'
 import { Fragment, useState } from 'react'
 
 export default function WatchMe() {
-  let [isOpen, setIsOpen] = useState(true)
+  let [isOpen, setIsOpen] = useState(false)
 
   function closeModal() {
     setIsOpen(false)
@@ -68,7 +68,7 @@ export default function WatchMe() {
                 <div className="p-2 relative">
                     <div className="left:0 position:absolute top:0 w-full">
                         <iframe 
-                            src="https://www.youtube.com/embed/83esBU9hw4Y" 
+                            src="https://www.youtube.com/playlist?list=PLFtjL3Kgr7yRkjOZV1s5kRTY8Lgcr5zwu" 
                             w-full 
                             aspect-video 
                             title="YouTube video player" 
