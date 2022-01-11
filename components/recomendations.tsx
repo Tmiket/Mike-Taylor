@@ -22,10 +22,14 @@ In addition to his technical and creative talents, Mike is a joy to work with â€
       },
       {
         imageSrc:
-          "https://doodleipsum.com/700x700/avatar-2?i=bc931314c32811784f60b4911e26ea36",
+          "https://media-exp1.licdn.com/dms/image/C5603AQG_ZOAnPBZHvA/profile-displayphoto-shrink_200_200/0/1516356986687?e=1647475200&v=beta&t=jb4KsJJIrLp91l0npe0Wx9NbvyFdT4gTn00jgBAo6y0",
         quote:
-          "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
-        customerName: "Fname Lname"
+          "Mike is a creative and innovative learning development professional. His excellent consulting skills help clients clarify their needs and discover creative and efficient solutions. Through a primary focus on performance improvement, he has helped to create critical thinking around learning decisions.
+
+Mike has been engaged in several business critical projects during his time at American Electric Power. He contributes positively to team work processes as a member and lead. He successfully collaborates with people at all levels of responsibility and diverse professional backgrounds.
+
+Mike is a self-starter who is professionally motivated to contribute to create value in the organization. As a thought leader in our organization he has helped us challenge our thinking and improve our performance.",
+        customerName: "Sal Piazza"
       }
   ]
 
