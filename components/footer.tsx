@@ -9,8 +9,8 @@ import Link from "next/link";
 const footernavigation = [
     { name: 'Home', href: '#'},
     { name: 'About', href: '#'},
-    { name: 'Contact', href: '#'},
-    { name: 'Blog', href: '#'},
+    { name: 'Contact', href: 'https://mike-taylor.org/contact/'},
+    { name: 'Blog', href: 'https://mike-taylor.org'},
   ]
 
 export default function Footer() {
@@ -52,7 +52,7 @@ export default function Footer() {
                     className="px-10"
                     />
             </Link>
-            <Link href="#">
+            <Link href="https://twitter.com/tmiket">
                 <Image 
                     src={Twitter} 
                     objectPosition="hover"
@@ -62,7 +62,7 @@ export default function Footer() {
                     className="px-10"
                     />
             </Link>
-            <Link href="#">
+            <Link href="https://www.youtube.com/playlist?list=PLFtjL3Kgr7yRkjOZV1s5kRTY8Lgcr5zwu">
                 <Image 
                     src={Youtube} 
                     objectPosition="hover"
